@@ -15,3 +15,7 @@ KitteyHacker includes several interactive buttons that trigger different actions
 - **Install Windows 93**: Redirects the user to the Windows 93 website.
 - **Kill Windows Forever**: Immediately triggers a BSOD, potentially disabling the system.
 - **Information**: Displays details about the virus.
+
+## Download
+
+You can download KitteyHacker [here](https://github.com/serbinskis/KitteyHacker/raw/refs/heads/master/KitteyHacker.exe).
